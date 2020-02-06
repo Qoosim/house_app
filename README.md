@@ -2,4 +2,4 @@
 
 This is an app that gives details about house renting
 
-### Developed by Qoosim
+### Developed by Qoosim Adekunle
